@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "jsxFactory": "Node"
+  }
+}
