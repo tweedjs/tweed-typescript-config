@@ -1,6 +1,6 @@
 {
   "name": "tweed-typescript-config",
-  "version": "0.2.0",
+  "version": "0.3.0-dev",
   "description": "TypeScript Configuration for Tweed",
   "homepage": "https://github.com/tweedjs/tweed-typescript-config",
   "license": "WTFPL",
@@ -8,6 +8,7 @@
   "bugs": {
     "url" : "https://github.com/tweedjs/tweed/issues"
   },
+  "main": "./config.json",
   "repository": "tweedjs/tweed-typescript-config",
   "author": "Emil Persson <emil.n.persson@gmail.com> (https://emilpersson.se)"
 }
