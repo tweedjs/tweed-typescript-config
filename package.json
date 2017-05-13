@@ -2,7 +2,7 @@
   "name": "tweed-typescript-config",
   "version": "0.5.0",
   "description": "TypeScript Configuration for Tweed",
-  "homepage": "https://tweed.js.org",
+  "homepage": "https://github.com/tweedjs/tweed-typescript-config",
   "license": "WTFPL",
   "keywords": [
     "ui",
