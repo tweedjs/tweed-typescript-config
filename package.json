@@ -1,14 +1,20 @@
 {
   "name": "tweed-typescript-config",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "TypeScript Configuration for Tweed",
-  "homepage": "https://github.com/tweedjs/tweed-typescript-config",
+  "homepage": "https://tweed.js.org",
   "license": "WTFPL",
-  "keywords": ["ui", "vdom", "oop", "tweed", "typescript"],
+  "keywords": [
+    "ui",
+    "vdom",
+    "oop",
+    "tweed",
+    "typescript"
+  ],
   "bugs": {
     "url" : "https://github.com/tweedjs/tweed/issues"
   },
-  "main": "./config.json",
   "repository": "tweedjs/tweed-typescript-config",
-  "author": "Emil Persson <emil.n.persson@gmail.com> (https://emilpersson.se)"
+  "author": "Emil Persson <emil.n.persson@gmail.com> (https://emilpersson.se)",
+  "main": "./config.json"
 }
